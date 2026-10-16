@@ -1,0 +1,7 @@
+metode,nama_debitur,kode_sektor,sektor,baki_debet_juta_rp,baki_debet_rp,evic_atau_aset_rp,total_emisi_debitur_tco2e
+Sektoral,PT Indo Agro Perkasa,A,Pertanian Perkebunan Kehutanan dan Perikanan,25000,0,0,0
+Sektoral,PT Bumi Tambang Mineral,B,Pertambangan Batubara Minyak Gas dan Mineral,65000,0,0,0
+Sektoral,PT Logam Presisi Cemerlang,C,Industri Manufaktur Kimia Logam Semen dan Kertas,40000,0,0,0
+Sektoral,PT Samudera Logistik Ekspres,I,Transportasi Darat Laut dan Udara,30000,0,0,0
+Reported,PT Semen Mega Perkasa Tbk,-,Industri Manufaktur Kimia Logam Semen dan Kertas,0,150000000000,600000000000,120000
+Reported,PT Trans Borneo Kargo,-,Transportasi Darat Laut dan Udara,0,45000000000,180000000000,25000

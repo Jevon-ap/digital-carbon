@@ -1,0 +1,11 @@
+wilayah_grid,faktor_emisi,keterangan
+Nasional (Rata-rata Grid Indonesia),0.7900,Default Grid Nasional Kalkulator Hijau V.2 (2026)
+Jamali (Jawa - Madura - Bali),0.8100,Sistem Ketenagalistrikan Terkoneksi Jawa-Bali ESDM
+Sumatra (Interkoneksi Sistem Sumatra),0.7600,Sistem Grid Pulau Sumatra
+Kalimantan (Sistem Barito - Mahakam & Khatulistiwa),0.8300,Sistem Interkoneksi Kalimantan
+Sulawesi (Sistem Sulbagsel & Sulutenggo),0.7200,Bauran PLTA/PLTB dan Fosil Sulawesi
+Maluku & Papua (Sistem Terisolasi),0.8600,Pembangkit Diesel & Gas Wilayah Timur
+Nusa Tenggara (Sistem NTB & NTT),0.8400,Sistem Kelistrikan Kepulauan Nusa Tenggara
+Captive Power Industri (PLTD Diesel),0.7500,Pembangkit Mandiri Khusus Industri Berbasis Diesel
+Captive Power Industri (PLTU Batubara),1.0500,Pembangkit Mandiri Khusus Industri Berbasis Batubara
+Listrik Hijau Bersertifikat (PLN REC / EBT 100%),0.0000,Renewable Energy Certificate (Zero Emission)

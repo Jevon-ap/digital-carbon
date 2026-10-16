@@ -1,0 +1,19 @@
+kode_sektor,nama_sektor,faktor_emisi,kategori_risiko,keterangan
+A,Pertanian Perkebunan Kehutanan dan Perikanan,0.0450,Menengah,PCAF & Taksonomi Hijau Indonesia
+B,Pertambangan Batubara Minyak Gas dan Mineral,0.1280,Sangat Tinggi,Intensitas Emisi Bahan Galian Tinggi
+C,Industri Manufaktur Kimia Logam Semen dan Kertas,0.0920,Tinggi,Proses Kimia Termal & Pembakaran
+D,Industri Pengolahan Makanan Minuman Tekstil dan Kayu,0.0380,Menengah-Rendah,Industri Manufaktur Ringan
+E,Pengadaan Listrik Gas Uap Air Panas dan Energi Fosil,0.1850,Sangat Tinggi,Pembangkitan Energi Fosil & Transmisi
+F,Pengelolaan Sampah Limbah dan Daur Ulang,0.0620,Menengah-Tinggi,Penguraian Anaerobik & Pengolahan Efluen
+G,Konstruksi Gedung Sipil dan Infrastruktur,0.0410,Menengah,Alat Berat & Material Semen/Baja
+H,Perdagangan Besar dan Eceran / Ritel,0.0150,Rendah,Aktivitas Rantai Pasok Toko & Komersial
+I,Transportasi Darat Laut dan Udara,0.0980,Tinggi,Mobilisasi Angkutan Penumpang & Kargo
+J,Pergudangan dan Jasa Penunjang Angkutan,0.0350,Menengah-Rendah,Penyimpanan Berpendingin & Logistik
+K,Penyediaan Akomodasi dan Penyediaan Makan Minum,0.0220,Rendah,Hotel Resor Restoran & Catering
+L,Informasi Telekomunikasi dan Data Center,0.0180,Rendah-Menengah,Konsumsi Daya Server & BTS
+M,Jasa Keuangan dan Perbankan,0.0050,Sangat Rendah,Emisi Perkantoran & Operasional Lembaga
+N,Real Estat dan Properti Komersial,0.0240,Rendah-Menengah,Penerangan Gedung & Tata Udara HVAC
+O,Jasa Kesehatan dan Rumah Sakit,0.0190,Rendah,Insinerasi Medis & Kelistrikan 24 Jam
+P,Jasa Pendidikan dan Lembaga Riset,0.0080,Sangat Rendah,Kampus Fasilitas Belajar & Kantor
+Q,Pembangkitan Energi Baru Terbarukan (EBT) & Konservasi,0.0040,Sangat Rendah,Proyek Hijau / Transisi Berkelanjutan
+R,Sektor Jasa Lainnya dan Kegiatan Umum,0.0200,Rendah,Kegiatan Jasa Rumah Tangga & Bisnis Lain

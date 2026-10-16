@@ -1,0 +1,7 @@
+tipe,deskripsi,jenis_bbm,satuan,volume,jenis_kendaraan,jarak_km,efisiensi_km_l
+Statis,Genset Cadangan Gedung Utama,Solar Subsidi / Biosolar B35,Liter,2500,-,0,0
+Statis,Boiler Pemanas Industri,Minyak Bakar (Fuel Oil/MFO),Liter,4000,-,0,0
+Statis,Dapur Kantin & Pantry,LPG,Kg,450,-,0,0
+Bergerak,Armada Truk Pengiriman Logistik,Solar Subsidi / Biosolar B35,Liter,0,Truk Sedang / Engkel / Box (Solar),12500,6.5
+Bergerak,Kendaraan Operasional Direksi & Tim Sales,Pertamax (RON 92),Liter,0,Mobil Penumpang MPV / SUV Bensin,18000,10.5
+Bergerak,Sepeda Motor Kurir Dokumen,Pertalite (RON 90),Liter,0,Sepeda Motor Bensin (Bebek / Skutik),7500,40.0

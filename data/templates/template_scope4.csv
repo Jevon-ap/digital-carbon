@@ -1,0 +1,7 @@
+kategori,deskripsi,kwh_generasi,faktor_emisi_grid,jarak_km,efisiensi_ice_km_per_liter,fe_bbm_ice,konsumsi_ev_kwh_per_km,fe_listrik_grid,kredit_tco2e,penyedia_proyek,nomor_sertifikat
+EBT,PLTS Atap Rooftop Kantor Pusat 120 kWp,45000,0.81,0,0,0,0,0,0,-,-
+EBT,Pembangkit Surya Gudang Distribusi 60 kWp,22000,0.81,0,0,0,0,0,0,-,-
+EV,Armada Operasional 15 Unit Mobil Listrik EV,0,0,180000,12.0,2.31,0.16,0.81,0,-,-
+EV,Armada 20 Unit Sepeda Motor Listrik Kurir,0,0,80000,40.0,2.31,0.04,0.81,0,-,-
+Kredit Karbon,Pembelian SPE-GRK Restorasi Ekosistem Rawa Gambut,0,0,0,0,0,0,0,500.0,IDXCarbon / PT RMU,SPE-GRK-ID-2026-0042
+Kredit Karbon,Pembelian SPE-GRK Pembangkit Minihidro Sumbar,0,0,0,0,0,0,0,250.0,IDXCarbon / PT Kencana Hijau,SPE-GRK-ID-2026-0098

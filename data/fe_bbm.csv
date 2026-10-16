@@ -1,0 +1,18 @@
+jenis_bbm,kategori,satuan,faktor_emisi,keterangan
+Pertalite (RON 90),Bensin,Liter,2.3100,Pedoman Teknis KLHK & ESDM 2024
+Pertamax (RON 92),Bensin,Liter,2.3300,Pedoman Teknis KLHK & ESDM 2024
+Pertamax Turbo (RON 98),Bensin,Liter,2.3500,Pedoman Teknis KLHK & ESDM 2024
+Solar Subsidi / Biosolar B35,Solar/Diesel,Liter,2.1800,Bauran Fosil Biosolar ESDM 2024
+Dexlite (CN 51),Solar/Diesel,Liter,2.5500,BBM Diesel Non-Subsidi
+Pertamina DEX (CN 53),Solar/Diesel,Liter,2.6800,BBM Diesel Emisi Standar Euro 4
+Minyak Solar Industri (HSD),Solar/Diesel,Liter,2.6800,High Speed Diesel Industri
+Minyak Bakar (Fuel Oil/MFO),Minyak Berat,Liter,3.0200,Bahan Bakar Boiler Industri
+Minyak Tanah (Kerosene),Minyak Tanah,Liter,2.5300,IPCC 2006 Guidelines Vol. 2
+Avtur (Jet A-1),Bahan Bakar Pesawat,Liter,2.5400,Standar ICAO & IPCC
+LPG,Gas Bumi/Petroleum,Kg,2.9800,Kalkulator Hijau V.2 (2026)
+Gas Alam Terkompresi (CNG),Gas Bumi,m3,2.0200,Gas Alam Tekanan Tinggi
+Gas Alam Cair (LNG),Gas Bumi,Kg,2.7500,Gas Alam Suhu Rendah
+Batubara Bituminous,Batubara,Kg,2.4200,Boiler & Pembangkit Uap
+Batubara Sub-bituminous,Batubara,Kg,1.8500,Kualitas Sedang Kalori Rendah
+Biodiesel B100 (Fosil Life-cycle),Biofuel,Liter,0.0800,Emisi Proses Manufaktur (Non-Biogenik)
+Biomassa Wood Pellet,Biomassa,Kg,0.1500,Siklus Hidup Pemrosesan (Non-Biogenik)
